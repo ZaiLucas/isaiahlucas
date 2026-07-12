@@ -13,6 +13,8 @@ Economics graduate interested in Data Analytics, Financial Analytics, and Busine
 - DAX
 - Tableau
 
+## [Project](https://github.com/ZaiLucas/isaiahlucas/blob/main/Project)
+
 ## Contact
 LinkedIn: http://www.linkedin.com/in/isaiah-lucas-54024423b
 
