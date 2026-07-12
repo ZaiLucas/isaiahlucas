@@ -1,4 +1,4 @@
-# Hello, I am Isaiah Lucas
+# Hello, I'm Isaiah Lucas
 
 Economics graduate interested in Data Analytics, Financial Analytics, and Business Intelligence.
 
@@ -15,4 +15,5 @@ Economics graduate interested in Data Analytics, Financial Analytics, and Busine
 
 ## Contact
 LinkedIn: http://www.linkedin.com/in/isaiah-lucas-54024423b
+
 Email: IsaiahLucas@gmail.com
